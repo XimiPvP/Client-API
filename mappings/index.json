@@ -864,18 +864,53 @@
         "inactive": false
     },
     {
-        "id": "kiopvp",
-        "name": "KioPvP Network",
-        "description": "A network focused on PvP",
+        "id": "juddho",
+        "name": "Juddho",
+        "description": "Bangladesh's Minecraft community dedicated to PvP.",
         "addresses": [
-            "kiopvp.com"
+            "juddho.fun"
         ],
-        "primaryAddress": "kiopvp.com",
+        "primaryAddress": "juddho.fun",
         "minecraftVersions": [
             "1.7.10",
             "1.7",
             "1.8.9",
             "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#a06de8",
+        "secondaryColor": "#6d34bc",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "AS",
+        "regions": [
+            "AS"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Minigames"
+        ],
+        "socials": {
+            "discord": "https://discord.com/invite/GmptZQfBRa"
+        },
+        "thirdPartyAPIs": [
+            "Apollo"
+        ],
+        "inactive": false
+    },
+    {
+        "id": "kiopvp",
+        "name": "KioPvP Network",
+        "description": "The best UHCF network",
+        "addresses": [
+            "kiopvp.org"
+        ],
+        "primaryAddress": "kiopvp.org",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.8.9"
         ],
         "primaryMinecraftVersion": "1.8.9",
         "primaryColor": "#9d3df6",
@@ -891,13 +926,11 @@
         ],
         "gameTypes": [
             "HCF",
-            "PvP"
+            "UHC"
         ],
-        "store": "https://store.kiopvp.com/",
+        "store": "https://store.kiopvp.org/",
         "socials": {
-            "twitter": "kiopvpnetwork",
-            "discord": "https://discord.gg/KgEjg6aMh4",
-            "telegram": "kiopvp"
+            "discord": "https://discord.gg/uhcf"
         },
         "inactive": false
     },
